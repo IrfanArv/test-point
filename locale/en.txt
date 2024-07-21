@@ -1,0 +1,114 @@
+#: locale=en
+
+## E-Learning
+
+### Question Screen
+quizQuestion_E31A80C5_C3DB_4EA0_41E5_D3B45C7E1044.ok = OK
+
+### Report Screen
+quizScore_E302F0C5_C3DB_4EA0_41E7_68D26A94DBA0.title = - SCORE -
+quizScore_E302F0C5_C3DB_4EA0_41E7_68D26A94DBA0.completion = Completed
+quizScore_E302F0C5_C3DB_4EA0_41E7_68D26A94DBA0.questionsCorrect = Correct
+quizScore_E302F0C5_C3DB_4EA0_41E7_68D26A94DBA0.downloadCSV = Download .csv
+quizScore_E302F0C5_C3DB_4EA0_41E7_68D26A94DBA0.questionsIncorrect = Incorrect
+quizScore_E302F0C5_C3DB_4EA0_41E7_68D26A94DBA0.items = Items Found
+quizScore_E302F0C5_C3DB_4EA0_41E7_68D26A94DBA0.questions = Questions
+quizScore_E302F0C5_C3DB_4EA0_41E7_68D26A94DBA0.repeat = Repeat
+quizScore_E302F0C5_C3DB_4EA0_41E7_68D26A94DBA0.submitToLMS = Submit
+quizScore_E302F0C5_C3DB_4EA0_41E7_68D26A94DBA0.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_E31780C4_C3DB_4EA1_41E0_BD1391E040E5.title = - TIMEOUT -
+quizTimeout_E31780C4_C3DB_4EA1_41E0_BD1391E040E5.repeat = Repeat
+quizTimeout_E31780C4_C3DB_4EA1_41E0_BD1391E040E5.score = View Score
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_E9FEBE7B_C37A_06D2_41DE_E94EDE486023.text = Chat
+HotspotPanoramaOverlayTextImage_E1F73B22_C3C9_53E0_41CF_C447BE3C1804.text = FIND ITEM
+HotspotPanoramaOverlayTextImage_EEB136B7_C366_0652_41D4_D8D8BA5C53D8.text = Intro
+HotspotPanoramaOverlayTextImage_DDC49E20_C3C9_B5E0_41E0_B53CF9EF1B32.text = QUIZ
+HotspotPanoramaOverlayTextImage_EB81BD5C_CE43_AAE6_41E4_FA41D9BD83EA.text = SHOOT
+HotspotPanoramaOverlayTextImage_EB9E8989_CE46_EA6E_41C1_8D2A5E2B889B.text = back to home
+HotspotPanoramaOverlayTextImage_EC57DF6A_CE46_A6A2_41E7_4EC41A2BA818.text = back to home
+HotspotPanoramaOverlayTextImage_EBA5C085_CE47_BA66_41DB_9F6A0BAF32F6.text = back to home
+
+## Media
+
+### Image
+imlevel_DF4047FD_D0E1_E1A2_41CA_9FB05BF1F36B.url = media/panorama_E9B54DD3_CDDF_A5E2_41DB_80F40D47FC95_HS_2rsn72u0_en.png
+imlevel_DF40B7DB_D0E1_E1E6_41E0_6BEEC6F23F7F.url = media/panorama_E9B54DD3_CDDF_A5E2_41DB_80F40D47FC95_HS_6dty197f_en.png
+imlevel_DF41E7A2_D0E1_E1A6_41E1_9371392B7C7B.url = media/panorama_E9B54DD3_CDDF_A5E2_41DB_80F40D47FC95_HS_8hfiwcf6_en.png
+imlevel_DF4157BF_D0E1_E19E_41CF_A6CF1D700764.url = media/panorama_E9B54DD3_CDDF_A5E2_41DB_80F40D47FC95_HS_i6frk7u8_en.png
+imlevel_DF9B773E_D0E1_E29F_41C1_7DB1677E60B5.url = media/panorama_E9B54DD3_CDDF_A5E2_41DB_80F40D47FC95_HS_ixi4ra7i_en.png
+imlevel_DF45A81B_D0E1_EE66_41E0_1854BB78FADA.url = media/panorama_E9EB699B_CDDF_6A62_41E7_280A9C85F894_HS_dvj1jwf7_en.png
+imlevel_DF3DE859_D0E1_EEE2_418F_784E79480AF3.url = media/panorama_E9F04E3B_CDDE_A6A2_41DB_7BCF5E5211F4_HS_d3iilfwu_en.png
+imlevel_DF3C3886_D0E1_EE6E_41E2_0A195250CAD3.url = media/panorama_E9F0B355_CDDE_DEE6_41DE_01FD26FFEF56_HS_4s7m4jgc_en.png
+
+### Title
+panorama_E9F0B355_CDDE_DEE6_41DE_01FD26FFEF56.label = find item
+panorama_E9B54DD3_CDDF_A5E2_41DB_80F40D47FC95.label = pano-background
+panorama_E9F04E3B_CDDE_A6A2_41DB_7BCF5E5211F4.label = quiz
+panorama_E9EB699B_CDDF_6A62_41E7_280A9C85F894.label = shoot
+
+## Skin
+
+### Button
+Button_D8D11E42_C3F8_D5A0_41CC_580ACD037D3B.label = CLOSE
+Button_DFA40560_C2E6_1AEE_41C9_06F44F2D0BE5.label = ENGLISH
+Button_DFA4F560_C2E6_1AEE_41D0_56D60277623C.label = INDONESIA
+Button_DB282555_C3CB_D7A0_41DB_CC2AE1E19458.label = OK
+Button_DA67F060_C3F7_CE60_41D8_F03FA35C6370.label = OK
+Button_DC90560F_C2FA_0632_41DE_0E176DF4DA5A.label = OK
+Button_E27FB95D_C2FA_0AD6_41D1_183A533403B9.label = OK
+Button_DD5B0A65_C2FA_0EF6_41E0_BC28F62497A9.label = OK
+Button_DA2AF169_C3F7_4E60_4180_36ACE7FAAB02.label = OK
+Button_92721A0C_B517_DD99_41E1_FEE3AFC5851B.label = OK
+Button_DA3C7CFE_C3F9_D660_41D7_BEAD4195C0C1.label = PLAY AGAIN
+Button_DFA57B72_C2FA_0ED2_41E4_491405F76129.label = TIDAK
+Button_DA1440E7_C3CB_4E60_41C1_6043052AB7B1.label = X
+Button_DA4DFDE5_C3C8_F660_41E7_DFA4A0C283EA.label = X
+Button_DA297166_C3F7_4E61_41DE_236ACC235B7A.label = X
+Button_DA2AA168_C3F7_4E60_41C5_BC27CCD52156.label = X
+Button_DA68A061_C3F7_CE60_41DC_9E198CA5BB98.label = X
+Button_DA689062_C3F7_CE60_41D6_759196D2C2EB.label = X
+Button_DFA51B71_C2FA_0EEE_41DC_4AF4F7253775.label = YA
+
+### Image
+Image_E0495E77_C3CB_7260_41DF_839D2F6D5757.url = skin/Image_E0495E77_C3CB_7260_41DF_839D2F6D5757_en.png
+Image_E12ED2A3_C3C8_D2E0_41C7_AEA9B07DD50E.url = skin/Image_E12ED2A3_C3C8_D2E0_41C7_AEA9B07DD50E_en.png
+
+### Multiline Text
+HTMLText_DD5A7A64_C2FA_0EF6_41E0_040D6E3A99FD.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">Normal text</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV></div>
+HTMLText_DD588A65_C2FA_0EF6_41D3_F3620CB201ED.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">Normal text</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV></div>
+HTMLText_DD5B5A65_C2FA_0EF6_41E2_F1F2D9D6D820.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">Normal text</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV></div>
+HTMLText_DD5A3A64_C2FA_0EF6_41CE_C15E7AB6B7C5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">Normal text</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV></div>
+HTMLText_DD5AEA65_C2FA_0EF6_4189_2CBB485CE5C4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">Normal text</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV></div>
+HTMLText_DD5A1A64_C2FA_0EF6_41E3_D4CB82589BF4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">Normal text</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV></div>
+HTMLText_9357492F_B4E9_3F97_41A8_5BCE356D5AC5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;"><B>Kumpulkan sebanyak mungkin poin</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;"><B>dan tukarkan dengan berbagai reward yang tersedia.</B></SPAN></SPAN></DIV></div>
+HTMLText_DFA4555F_C2E6_1AD2_41E6_D18990C65B87.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;"><B>Silahkan pilih bahasa</B></SPAN></SPAN></DIV></div>
+HTMLText_DFA4FB70_C2FA_0EEE_41DE_DF36613CBFF0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;"><B>Yakin menggunakan petunjuk?</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;"><B>Skor Anda akan berkurang 10 poin.</B></SPAN></SPAN></DIV></div>
+HTMLText_DC90360F_C2FA_0632_41C2_7FE451BA6F48.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;"><B>info</B></SPAN></SPAN></DIV></div>
+HTMLText_E27E295E_C2FA_0AD2_41DF_747D1E452E78.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">Normal text</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV></div>
+HTMLText_E27EA95F_C2FA_0AD2_41E0_0383C6668A68.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">Normal text</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV></div>
+HTMLText_E2619961_C2FA_0AEE_41DF_48D5084ACADB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">Normal text</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV></div>
+HTMLText_E261A961_C2FA_0AEE_41E2_B85C8A8446A8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">Normal text</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV></div>
+HTMLText_E2611960_C2FA_0AEE_41DF_8773EE32C176.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">Normal text</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV></div>
+HTMLText_E27E195E_C2FA_0AD2_41E3_33D8111F40BA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">Normal text</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">hjklhjkl</SPAN></SPAN></DIV></div>
+HTMLText_D8D1AE40_C3F8_D5A0_41C2_C3C53F715DF8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>FINISH</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Normal text</SPAN></SPAN></DIV></div>
+HTMLText_DB52D9F1_C3C9_5E60_41E6_4D095DF503B8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Title</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;"><B>Subtitle</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Normal text</SPAN></SPAN></DIV></div>
+HTMLText_DA67505F_C3F7_CDA0_41E2_2D7F214D8A3A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Title</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;"><B>Subtitle</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Normal text</SPAN></SPAN></DIV></div>
+HTMLText_DA295165_C3F7_4E60_41CE_5523477F8973.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Title</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;"><B>Subtitle</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Normal text</SPAN></SPAN></DIV></div>
+HTMLText_DA3DFCFD_C3F9_D660_41E0_77F2415423A5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>WRONG ANSWER</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Normal text</SPAN></SPAN></DIV></div>
+HTMLText_AFE1CDA6_B4E9_7689_41D1_2A2779B4839A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:3.0303030303030307vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.03vh;"><B>{{quiz.score1.score}}</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = TEST-POINT

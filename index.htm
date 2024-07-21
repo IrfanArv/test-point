@@ -128,6 +128,9 @@
           gameID: gameID,
           pointsEarned: score,
         };
+        console.log("====================================");
+        console.log(data, "data to submits");
+        console.log("====================================");
 
         fetch("https://cms.metaplay.id/api/submitPoint", {
           method: "POST",
@@ -149,6 +152,9 @@
             } else {
               alert("Error: Unable to submit points.");
             }
+            console.log("====================================");
+            console.log(result.body);
+            console.log("====================================");
             window.location.href = "https://test-point.vercel.app";
           })
           .catch((error) => {

@@ -128,9 +128,6 @@
           gameID: gameID,
           pointsEarned: score,
         };
-        console.log("====================================");
-        console.log(data, "data to submits");
-        console.log("====================================");
 
         fetch("https://cms.metaplay.id/api/submitPoint", {
           method: "POST",
@@ -147,14 +144,11 @@
           .then((result) => {
             if (result.status === 200) {
               alert(
-                `${result.body.message}\nNew User Coins: ${result.body.data.newUserCoins}`
+                `${result.body.message}\nPoint yang didapat dari game ini: ${score}\nTotal Point kamu: ${result.body.data.newUserCoins}`
               );
             } else {
               alert("Error: Unable to submit points.");
             }
-            console.log("====================================");
-            console.log(result.body);
-            console.log("====================================");
             window.location.href = "https://test-point.vercel.app";
           })
           .catch((error) => {
